@@ -13,3 +13,6 @@
 >
 ####按下按鈕後產生 HelloSwift 字樣,再按一次 HellowSwift 字樣消失
 ![GitHub](https://github.com/nick0904/some_pics/blob/master/demo.png)
+>
+>
+![GitHub](https://github.com/nick0904/some_pics/blob/master/swift_lesson01_video.mov)
